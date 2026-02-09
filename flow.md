@@ -1,6 +1,3 @@
-
-free Flow 2 68 — VIA, HID & Custom Configurator Guide
-
 ## Table of Contents
 
 - [Overview](#overview)
